@@ -1,4 +1,4 @@
-#Gif image file reader component for ESP32
+GIF image file reader component for ESP32
 Based on gifdec project
 
 GIF decoder
